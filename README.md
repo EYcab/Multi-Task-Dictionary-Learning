@@ -1,0 +1,2 @@
+# Multi-Task-Dictionary-Learning
+We formulate an unsupervised framework for multi-task sparse feature learning based on a novel dictionary learning algorithm. To solve the unsupervised learn- ing problem, we propose a two-stage Multi-Source Multi-Target Dictio- nary Learning (MMDL) algorithm. In stage 1, we propose a multi-source dictionary learning method to utilize the common and individual sparse features in different time slots. In stage 2, supported by a rigorous the- oretical analysis, we develop a multi-task learning method to solve the missing label problem.
