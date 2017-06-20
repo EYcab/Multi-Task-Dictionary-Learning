@@ -3,8 +3,10 @@ We formulate an unsupervised framework for multi-task sparse feature learning ba
 
 Please refer to the file Readme_MMDL_1.0.txt to use the MMDL package.
 
-This work has already been published at IPMI 2017 http://www.ipmi2017.org/.
-The paper is "Multi-Source Multi-Target Dictionary Learning for Prediction of Cognitive Decline"
+This work has already been published at IPMI 2017 https://link.springer.com/chapter/10.1007/978-3-319-59050-9_15.
+If you find the MMDL package useful, please cite our work as follows:
+
+Jie Zhang*, Qingyang Li* (co-first author), Richard J. Caselli, Jieping Ye, Yalin Wang. "Multi-Source Multi-Target Dictionary Learning for Prediction of Cognitive Decline", The 24th biennial international conference on Information Processing in Medical Imaging (IPMI), 2017.
 
 
 Multi-Task Dictionary Learning
